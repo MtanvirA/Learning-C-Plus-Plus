@@ -1,0 +1,15 @@
+{
+  "proxies": [
+    {
+      "id": "pstu-proxy",
+      "type": "http",
+      "title": "PSTU",
+      "address": "cse.pstu.ac.bd",
+      "port": 3128,
+      "username": "default",
+      "password": "proxy@PSTU",
+      "color": "#3f51b5",
+      "active": false
+    }
+  ]
+}
